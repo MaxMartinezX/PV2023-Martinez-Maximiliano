@@ -6,7 +6,7 @@ public class Principal {
 		// TODO Auto-generated method stub
 		int a=5;
 		
-		System.out.println(Math.pow(a, 2));
+		System.out.println(Math.pow(a, 3));
 
 	}
 
